@@ -205,7 +205,7 @@ class Game
                 puts "--- --- ---"
                 puts "| "+x[0].to_s+" | "+x[1]+" | "+x[2]+" |"        
         end
-      puts "\t\t\t --- --- ---"
+      puts "--- --- ---"
       #sleep 3
   
       boucle = true
